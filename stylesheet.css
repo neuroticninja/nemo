@@ -1,0 +1,146 @@
+
+#container{
+	background-color: #F8F8F8;
+}
+
+#backpng{
+	background-image: url(https://unsplash.com/photos/vjrc97rkClA/download?force=true);
+	background-repeat: cover;
+
+}
+
+
+h1{
+font-family: "Shifters - Free Personal Use";
+font-size: 6.5rem;
+text-align: center;
+padding: 18% 3% 27% 3%;
+color:#000100;
+/*margin-top: 215px;*/
+}
+
+
+
+
+h2{
+font-size: 6rem;
+letter-spacing: -0.2rem;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-weight:10px;
+padding-bottom: 3%;
+}
+
+
+
+
+h3{
+	font-size: 2.5rem;
+	text-align:center;
+	font-weight: 5px;
+	letter-spacing:0rem;
+	padding: 4%;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+
+
+.aboutme p{
+font-size: 1.4rem;
+text-align: center;
+letter-spacing: 0rem;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.aboutme{
+padding: 7% 13%;
+background-color:#a6d2eb;
+color:#ffffff;
+letter-spacing: 0.5rem; 
+font-family: 'Montserrat', sans-serif;
+margin-bottom:10px;
+}
+
+
+
+#services{
+	padding: 7% 13%;
+	background-color:#b4e4ff;
+	color:#ffffff;
+}
+
+#services p{
+	font-size: 1.4rem;
+text-align: center;
+letter-spacing: 0rem;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+
+footer{
+	text-align: center;
+	font-size: 2rem;
+	padding-top:3%;
+}
+
+
+.icons{
+	padding:0% 2% 2.5% 2%;
+
+}
+ footer p{
+ 	font-size: 1rem;
+text-align: center;
+letter-spacing: 0rem;
+font-family: 'Montserrat', sans-serif;
+ padding:0% 13%;
+
+ }
+
+ .navbar{
+	 background-color:#000000;
+	 position: fixed;
+	 width:100%;
+ }
+ .nav-link{
+	 padding: 0 0 ;
+	 color: white;
+	 font-family: 'Coven Filled', sans-serif;
+	 letter-spacing:0.1rem;
+	 font-weight:bold;
+	 font-family: 'Montserrat';
+}
+
+
+.nav-link:hover{
+	color:#82c8e2;
+}
+
+.logo{
+	font-family: "Shifters - Free Personal Use";
+}
+
+.barl{
+	height:70px;
+	width: 20px;
+	background-color:#ffae00 ;
+	display: inline-block;
+	margin-right: 0.5em;
+}
+.parag{
+	font-family: "GT America","Helvetica Neue","Helvetica",sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility
+}
+.fab{
+	color: black;
+}
+.fab:hover{
+	color:#82c8e2;
+	}
+}
